@@ -2,3 +2,4 @@ logs
 python/token.pickle
 python/credentials.json
 tmp
+python/__pycache__
